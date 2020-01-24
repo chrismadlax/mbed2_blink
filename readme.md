@@ -88,6 +88,7 @@ make mbed offline development environment use mbed-CLI
 11. you get a bin file >> "mbed_blink_OS2only.bin" ,move this file to LPC1114's folder, 
 	mbed I/f will automatic update program to LPC1114, then press BL button on boards to run new program.
 	
-12. you can run makeBIN.bat to compile , bin file will be save to program root path
+12. or use --flash in compile command , direct download to LPC1114
+	mbed compile --flash
 	
-enjoy fun
+enjoy fun :)
