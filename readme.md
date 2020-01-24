@@ -20,7 +20,7 @@ make mbed offline development environment use mbed-CLI
 
 	git clone https://github.com/chrismadlax/mbed2_blink.git
 
-6. change directory to mbed_blink_OS2only...
+6. change directory to mbed2_blink...
 
 	cd mbed2_blink
 	
